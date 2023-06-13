@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Languages and Tools
 
-<!-- 
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ Languages and Tools
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)    
--->
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
   
