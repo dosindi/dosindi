@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Duncan O. N
 
 <!--
 **dosindi/dosindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+⚡ Fun fact: ...
+
 Languages and Tools
 
 <!-- 
@@ -28,8 +30,6 @@ Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)    
 -->
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
   
