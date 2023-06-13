@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Enterprise systems that align with people and business processes
-👯 I’m looking to collaborate on 
+👯 I’m looking to collaborate on evolutional enterprise and machine learning 
 ⚡ Fun fact: ...
 
 Languages and Tools
