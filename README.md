@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on Enterprise systems that align with people and business processes
+👯 I’m looking to collaborate on 
 ⚡ Fun fact: ...
 
 Languages and Tools
