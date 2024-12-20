@@ -59,6 +59,8 @@ Languages and Tools
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.vaadin.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-v.svg" alt="vaadin" width="40" height="40"/> </a> 
 </p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
