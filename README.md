@@ -61,6 +61,11 @@ Languages and Tools
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.vaadin.com" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-v.svg" alt="vaadin" width="40" height="40"/> </a> 
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/> </a> 
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a> 
+  
 </p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
