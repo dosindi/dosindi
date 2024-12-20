@@ -22,7 +22,7 @@ Languages and Tools
 
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
@@ -63,9 +63,11 @@ Languages and Tools
   <img src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-v.svg" alt="vaadin" width="40" height="40"/> </a> 
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/> </a> 
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
+<a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a> 
-  
+<a href="#" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="jira" width="40" height="40"/> </a> 
+    
 </p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
