@@ -76,4 +76,6 @@ Languages and Tools
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosindi&layout=compact" alt="dosindi" /></p>
 
 
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=dosindi&theme=dracula&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=dosindi&theme=dracula&column=3&margin-w=15&margin-h=15" alt="dosindi" /></a> </p>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dosindi.dosindi)
