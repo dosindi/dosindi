@@ -70,10 +70,10 @@ Languages and Tools
     
 </p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dosindi&show_icons=true&locale=en" alt="dosindi" /></p>
   
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosindi&layout=compact" alt="dosindi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosindi&layout=compact" alt="dosindi" /></p>
 
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=dosindi&theme=dracula&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=dosindi&theme=dracula&column=3&margin-w=15&margin-h=15" alt="dosindi" /></a> </p>
